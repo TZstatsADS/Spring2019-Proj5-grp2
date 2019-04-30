@@ -27,6 +27,7 @@ Our kernel: https://www.kaggle.com/zhengfei/simple-lstm
 **Contribution statement**: 
 + Fei Zheng adjusted the loss function and train the model with wighted examples.
 + Xiaoxi Zhao performed the word correction and reverted the contraction, then prepared the presentation slides.
++ Zeyu conducted the Exploratory Data Analysis.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
