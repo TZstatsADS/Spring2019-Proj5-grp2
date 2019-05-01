@@ -11,6 +11,7 @@ Term: Spring 2019
 	+ Zeyu Yang zy2327@columbia.edu  
 
 Our kernel: https://www.kaggle.com/zhengfei/simple-lstm  
+[Presentation](https://github.com/TZstatsADS/Spring2019-Proj5-spring2019-proj5-grp2/blob/master/ads5.pptx)
 
 + Project summary: This project is a [Kaggle competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)(*Jigsaw Unintended Bias in Toxicity Classification*). First we did Exploratory Data Analysis about the comments data. And then we did the train and prediction. Below is the competition summary:  
 
